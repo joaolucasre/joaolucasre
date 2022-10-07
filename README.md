@@ -2,10 +2,10 @@
 
 ## Bio
 
-2 anos de experiência em vendas consultivas com método Spin Selling e iniciando agora os estudos para desenvolvimento pela EBAC.
+2 anos de experiência em vendas consultivas com método Spin Selling e programador em desenvolvimento web pela Rocketseat.
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucasre&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
