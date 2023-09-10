@@ -2,7 +2,7 @@
 
 ## Bio
 
-Analista de Dados e Programador em desenvolvimento web pela Rocketseat.
+Analista de Dados e Programador em desenvolvimento web.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,4 +12,4 @@ Analista de Dados e Programador em desenvolvimento web pela Rocketseat.
 
 # Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/joaolucasreboucas/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30' _Blank>](https://www.linkedin.com/in/joaolucasreboucas/)
